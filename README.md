@@ -2,6 +2,8 @@
 
 This is a .NET solution with a console application and a unit test project. The console application is located in the `src/GitHub.Demo.App` directory and the unit test project is located in the `tests/GitHub.Demo.App.Tests` directory.
 
+It's used for GitHub Copilot demo purposes. Just for MS Build Spotlight events in The Netherlands and BeLux. 2023.
+
 ## Requirements
 
 To build and run this project, you need to have the following installed:
