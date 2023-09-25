@@ -1,12 +1,4 @@
 using System;
 
-namespace GitHub.Demo.App
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+
+Console.WriteLine("Hello Build Netherlands. Let's build it from here!");
